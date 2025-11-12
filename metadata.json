@@ -1,0 +1,5 @@
+{
+  "name": "Fakemon Generator",
+  "description": "A creative tool to generate unique, AI-powered 'Fakemon' (fan-made Pokémon) with custom images, descriptions, types, and stats using Google's Gemini API.",
+  "requestFramePermissions": []
+}
